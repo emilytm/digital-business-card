@@ -1,10 +1,46 @@
 #root {
-  max-width: 1280px;
+  width: 20em;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
 
+.info {
+
+}
+
+.info--name {
+
+}
+
+.info--title {
+
+}
+
+.info--buttons {
+
+}
+
+.info--buttons--email, .info--buttons--linkedin{
+  width: 7.5em;
+  height: 2em;
+  border-radius: .375em;
+  border: none;
+}
+
+.info--buttons--email {
+  background-color: #FFFFFF;
+}
+
+.info--buttons--linkedin {
+  background-color: #5093e2;
+}
+
+
+
+
+
+/*
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -40,3 +76,4 @@
 .read-the-docs {
   color: #888;
 }
+*/
