@@ -1,4 +1,5 @@
 import profilePicture from '../assets/headshot_square.jpg'
+
 export default function Info(){
     return (
 
