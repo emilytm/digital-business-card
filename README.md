@@ -1,6 +1,8 @@
 # digital-business-card
 
-This app started as part of the 'React Basics' module in Scrimba's Front-end Developer Career Path. We were given requirements and designs. I added some styling and functionality to meet reach goals and get extra practice.
+This digital business card was created as a step in the 'React Basics' module of the Scrimba Front End Developer Career Path. The goal was to build a basic React app to solidify our understanding of components and how to use them. This was my first React project. Design and functionality requirements are from Scrimba.
+
+**Next steps:** Look for ways to make this useful 🤷‍♀️
 
 See this project live [here](https://willowy-semolina-4805d5.netlify.app/).
 
